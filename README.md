@@ -1,4 +1,5 @@
-💰 Smart Expense Manager (Enhanced)
+💰 Smart Expense Manager (Enhanced):
+
 A versatile, multi-mode expense tracking application built in Python. This tool allows users to record daily expenses and provides insights and data visualization through either a modern Desktop GUI or a simple Web Interface.
 
 ✨ Features
